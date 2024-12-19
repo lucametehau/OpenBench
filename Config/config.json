@@ -1,6 +1,6 @@
 {
     "client_version"  : 32,
-    "client_repo_url" : "https://github.com/AndyGrant/OpenBench",
+    "client_repo_url" : "https://github.com/lucametehau/OpenBench",
     "client_repo_ref" : "master",
 
     "use_cross_approval"          : false,
@@ -24,6 +24,7 @@
 
     "engines" : [
         "4ku",
+        "BBD",
         "Berserk",
         "Bit-Genie",
         "BlackMarlin",
