@@ -24,7 +24,7 @@
 
     "engines" : [
         "4ku",
-        "BBD",
+        "bbd",
         "Berserk",
         "Bit-Genie",
         "BlackMarlin",
